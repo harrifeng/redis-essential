@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/harrifeng/redis-essential/issues"
   },
-  "homepage": "https://github.com/harrifeng/redis-essential#readme"
+  "homepage": "https://github.com/harrifeng/redis-essential#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
 }
